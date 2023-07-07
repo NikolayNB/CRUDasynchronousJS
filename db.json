@@ -4,6 +4,16 @@
       "nombre": "Nikolay Nuñez",
       "email": "nikolay@alura.com",
       "id": 1
+    },
+    {
+      "nombre": "Pedro",
+      "email": "pedro@alura.com",
+      "id": "05f6f9a8-fec1-47e3-991c-bedf50abfde4"
+    },
+    {
+      "nombre": "Julieta",
+      "email": "julieta@alura.com",
+      "id": "a26bfe66-d36b-4ae7-bb3f-5855d1cea9a0"
     }
   ]
 }
