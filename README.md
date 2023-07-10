@@ -2,7 +2,7 @@
 
 Course JS on the web: CRUD and Asynchronous JavaScript.
 
-Update: 9th of July - Course 4 of 5 Completed.
+Update: 10th of July - Course completed.
 
 Courses:
 1.- Asynchronous communication.
